@@ -8,7 +8,7 @@ El Sprint Backlog o Pila del Sprint es el conjunto de tareas seleccionadas del P
 El equipo generalmente divide el trabajo en elementos llamados Sprint Backlog Ítems que pueden representar tareas que el equipo debe completar, bloques de construcción intermedios que se combinan en una entrega, o cualquier otra unidad de trabajo que ayude al equipo a comprender cómo lograr el Sprint Goal dentro del Sprint.
 
 # Que es el "Product Backlog"?
-#
+El Product Backlog o Pila de Producto, uno de los artefactos dentro de Scrum, es una lista ordenada de todo lo conocido que podría ser necesario en el producto y única fuente de requisitos y trabajo para el Equipo Scrum.
 
 # Que es el "Sprint Review"?
 #
