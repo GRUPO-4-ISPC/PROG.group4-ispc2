@@ -28,4 +28,7 @@ Son momentos clave que se deben cumplir con el equipo y se realizan a lo largo d
 Los Artefactos según la guía Scrum, están diseñados para maximizar la transparencia de la información, que es necesaria para asegurar que todo el equipo tenga el mismo entendimiento del Artefacto. Las decisiones para optimizar el valor y controlar el riesgo se hacen con base en estos Artefactos, por lo tanto si no son lo suficientemente transparentes se puede incurrir en decisiones erróneas. Los tres principales artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
 
 # Que son los "Roles"?
-#
+La unidad fundamental de Scrum es un equipo de personas (Scrum Team ). Cada equipo consiste en un Scrum Master, un propietario del producto ( Product Owner) y desarrolladores ( Developers ).
+1. El Scrum Master es el encargado de asegurar que la metodología se lleve a cabo tal y como está definida. Esto se logra haciendo que cada persona del equipo entienda la teoría y práctica de la metodología.
+2. El Propietario del Producto es el responsable de Gestionar Efectivamente la Pila de Producto (Product Backlog). Es importante resaltar que el propietario del producto es una única persona, y por tanto, se deben respetar sus decisiones.
+3. Los desarrolladores son aquellos que producen cada uno de los incrementos de cada sprint y siempre son responsables de crear un plan para la pila de Sprint (Sprint Backlog), asegurar la calidad mediante la adopción de una Definición de Terminado y adaptar el Plan de Cada Día para conseguir el Objetivo del Sprint (Sprint Meta).
