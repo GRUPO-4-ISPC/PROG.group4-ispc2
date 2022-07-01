@@ -28,7 +28,7 @@ Son momentos clave que se deben cumplir con el equipo y se realizan a lo largo d
 # Que son los "Artefactos"?
 ## Artefactos
 Los Artefactos según la guía Scrum, están diseñados para maximizar la transparencia de la información, que es necesaria para asegurar que todo el equipo tenga el mismo entendimiento del Artefacto. Las decisiones para optimizar el valor y controlar el riesgo se hacen con base en estos Artefactos, por lo tanto si no son lo suficientemente transparentes se puede incurrir en decisiones erróneas. Los tres principales artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
-#
+
 
 # Que son los "Roles"?
 La unidad fundamental de Scrum es un equipo de personas (Scrum Team ). Cada equipo consiste en un Scrum Master, un propietario del producto ( Product Owner) y desarrolladores ( Developers ).
