@@ -1,7 +1,8 @@
 # PROG.group4-ispc2
 
 # Que es el "Scrum"?
-#
+#Scrum es un marco de trabajo liviano que ayuda a las personas, equipos y organizaciones a generar valor
+a través de soluciones adaptativas para problemas complejos
 
 # Que es "Sprint Backlog"?
 El Sprint Backlog o Pila del Sprint es el conjunto de tareas seleccionadas del Product Backlog durante el Sprint Planning para el Sprint actual, es decir, las tareas necesarias para realizar un incremento de producto.
