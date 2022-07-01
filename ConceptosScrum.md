@@ -12,7 +12,7 @@ El equipo generalmente divide el trabajo en elementos llamados Sprint Backlog Í
 El Product Backlog o Pila de Producto, uno de los artefactos dentro de Scrum, es una lista ordenada de todo lo conocido que podría ser necesario en el producto y única fuente de requisitos y trabajo para el Equipo Scrum.
 
 # Que es el "Sprint Review"?
-#
+El SPRINT REVIEW o Revisión del Sprint, es uno de los cinco eventos de Scrum y se realiza al final del Sprint. Durante esta ceremonia se revisa el Incremento, es decir, lo que se realizó durante el Sprint, y se analizan los cambios que tuvo el Product Backlog. El principal objetivo es obtener feedback de los Stakeholders para inspeccionar y evaluar el producto a fin de ajustar el Product Backlog.
 
 # Que es la "Reunión Diaria de Sincronización del Equipo"?
 #
