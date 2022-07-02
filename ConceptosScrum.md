@@ -15,9 +15,7 @@ El Product Backlog o Pila de Producto, uno de los artefactos dentro de Scrum, es
 El SPRINT REVIEW o Revisión del Sprint, es uno de los cinco eventos de Scrum y se realiza al final del Sprint. Durante esta ceremonia se revisa el Incremento, es decir, lo que se realizó durante el Sprint, y se analizan los cambios que tuvo el Product Backlog. El principal objetivo es obtener feedback de los Stakeholders para inspeccionar y evaluar el producto a fin de ajustar el Product Backlog.
 
 # Que es la "Reunión Diaria de Sincronización del Equipo"?
-#
-
-# Que es la "Ceremonia"?
+# A comienzos del dia se realiza una reunion de sincronizacion con el equipo, donde se coordinaran durante 5 minutos para recordar el trabajo que deben realizar cada miembro y valorar rapidamente si se esta progresando de la manera esperada.  Los miembros aprovechan esta reunion para actualizar el tablero.
 #CEREMONIA
 Son momentos clave que se deben cumplir con el equipo y se realizan a lo largo del proyecto. Entre ellos, son indispensables:
 1.	El sprint planning meeting: ceremonia o momento en que el equipo de desarrollo analiza lo que está en el backlog y define con cual spring va a seguir. Es la reunión de inicio, de planificación del sprint.
