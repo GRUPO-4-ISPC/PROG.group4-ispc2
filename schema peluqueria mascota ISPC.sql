@@ -11,13 +11,14 @@ CREATE TABLE IF NOT EXISTS duenio (
     direccion VARCHAR(30) NOT NULL
 );
 
+-- 1. Realice la consulta correspondiente para crear la tabla Perro, teniendo en cuenta sus claves foráneas y primarias.
 CREATE TABLE IF NOT EXISTS perro (
     id_perro BIGINT PRIMARY KEY AUTO_INCREMENT,
     nombre VARCHAR(20) NOT NULL,
     fecha_nacimiento DATE NOT NULL,
     sexo ENUM('hembra', 'macho') NOT NULL,
     fk_duenio_dni VARCHAR(10) NOT NULL,
-    FOREIGN KEY (fk_duenio_dni) REFERENCES duenio (dni)
+    FOREIGN KEY (fk_duenio_dni) REFERENCES duenio(dni)
 );
 
 CREATE TRIGGER lcase_insert BEFORE INSERT ON perro FOR EACH ROW

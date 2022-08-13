@@ -9,6 +9,7 @@ VALUES ("37876584", "Pedro", "alvear", "1137874509", "calle 123 Diagonal"),
        ("29857638", "Camila", "Fernandez", "1143989042","calle 282"),
        ("30968547", "Pedro", "Ordaz", "1157357378","calle 945 Sur");
        
+-- 2.Inserte en la tabla correspondiente un nuevo animal (perro) como paciente y el dueño asociado a ese animal.
 INSERT INTO perro (nombre, fecha_nacimiento, sexo, fk_duenio_dni)
 VALUES  ("Luli", "2020-10-15", "hembra", "37876584"),
 	    ("Dora", "2016-12-23", "hembra", "37876584"),
