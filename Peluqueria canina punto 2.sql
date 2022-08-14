@@ -8,18 +8,18 @@ VALUES ('25345678', 'Pablo', 'Parra', '3852423456', 'Buenos aires 456'),
 	   ('32783111', 'Pedro', 'Grosso', '3853832208', 'Catamarca 984');
 	   
 INSERT INTO Perro (Nombre_p, Fecha_Nac_p, Sexo_p, DNI_dueno_p)
-VALUES ('Neon', '2019/12/12', 'macho', '25345678'),
-	   ('Indiana', '2020/10/1', 'hembra', '27890543'),
-	   ('Aika', '2022/5/9', 'hembra', '30329684'),
-	   ('Homero', '2015/4/22', 'macho', '23968487'),
-	   ('Tyson', '2017/8/5', 'macho', '32783111');
+VALUES ('Neon', '2019-12-12', 'macho', '25345678'),
+	   ('Indiana', '2020-10-1', 'hembra', '27890543'),
+	   ('Aika', '2022-05-9', 'hembra', '30329684'),
+	   ('Homero', '2015-04-22', 'macho', '23968487'),
+	   ('Tyson', '2017-08-5', 'macho', '32783111');
 	   
 INSERT INTO Historial (Fecha_h, Perro_h, Monto_h, Descripcion_h)
-VALUES ('2020/1/10', 1, 500, 'control'),
-	   ('2020/1/31', 1, 3290, 'vacunas'),
-	   ('2020/10/10', 2, 8900, 'pulgas'),
-	   ('2022/5/17', 3, 900, 'control'),
-	   ('2022/6/25', 3, 8762, 'vacunas'),
-	   ('2021/4/22', 4, 4700, 'control'),
-	   ('2020/7/23', 5, 1000, 'peluqueria'),
-	   ('2021/2/11', 5, 4765, 'vacunas');
+VALUES ('2020-01-10', 1, 500, 'control'),
+	   ('2020-01-31', 1, 3290, 'vacunas'),
+	   ('2020-10-10', 2, 8900, 'pulgas'),
+	   ('2022-05-17', 3, 900, 'control'),
+	   ('2022-06-25', 3, 8762, 'vacunas'),
+	   ('2021-04-22', 4, 4700, 'control'),
+	   ('2020-07-23', 5, 1000, 'peluqueria'),
+	   ('2021-02-11', 5, 4765, 'vacunas');
